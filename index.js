@@ -21,7 +21,7 @@ app.use('/api/posts', postRoutes);
 
 app.get("/", (req, res) => {
     res.json(
-      "Hi there from Amaan Haider,  This is a BACKEND SERVER OF KONVOO APP 🦄✨💬"
+      "Hi there from Adityaraj Singh Rathore,  This is a BACKEND SERVER OF NODEJS BACKEND CHALLENGE 🦄✨💬"
     );
   });
 
